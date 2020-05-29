@@ -3,6 +3,10 @@
 ## PTM
 
 ## Tasks
+### Word segmentation
+
+### Part-of-speech tagging
+
 ### Text Classification
 
 ### Sentiment analysis

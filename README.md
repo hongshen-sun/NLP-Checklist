@@ -25,6 +25,11 @@
         - 邻接矩阵
         - 邻接表/单链表
 
++ Tools
+    - [jieba](https://github.com/fxsjy/jieba)
+    - [THULAC](http://thulac.thunlp.org/)
+    - [pkuseg](https://github.com/lancopku/pkuseg-python)
+
 + Reference:  
    [1] https://zhuanlan.zhihu.com/p/50444885
 
